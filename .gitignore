@@ -57,3 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+# PHPStorm/WebStorm cache files
+.idea
+
+# javascript files (because we should use only typescript in this project)
+*.js
+*.js.map
