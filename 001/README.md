@@ -5,7 +5,7 @@ Because our team consists of testers and developers, and our testers lack the sk
 
 So we will practice both TDD and Pair Programming at the same time.
 
-#2. Practice #1
+## 2. Practice #1
 ### English ###
 User story: As dev team, we want to estimate when we will have all task completed (in a sprint).
 
@@ -46,7 +46,7 @@ Trong bài tập này, chúng ta sẽ tập trung vào quá trình phát triển
 
 Bây giờ, sau khi đã có đầy đủ các test case, chúng ta sẽ bắt đầu code.
 
-#3. Practice #2
+## 3. Practice #2
 
 ### English ###
 User story: As dev team, we want to have weekend holidays at Saturday and Sunday.
