@@ -11,7 +11,7 @@ In order to take part in, you should install these into your environment:
 - Mochajs (a javascript test framework)
 - TypeScript (you should use **ntypescript** instead of **typescript**)
 
-> In this program, we only use Mocha.js as testing framework. To go further in TDD/BDD, you should use chai.js with mocha to make test cases more nature-language likes. And chai.js support selenium driver, too (or you can use nightwatch.js, we should have plenty of testing framework in this era.
+> In this program, we only use Mocha.js as testing framework. To go further in TDD/BDD, you should use chai.js with mocha to make test cases more nature-language likes. And chai.js support selenium driver, too (or you can use nightwatch.js, we should have plenty of testing framework in this era).
 
 The program should be update with new practice contents every week. Every practice should have both English and Vietnamese text (because, after all, we are a company based in Vietnam).
 
@@ -20,3 +20,10 @@ The program should be update with new practice contents every week. Every practi
 ### Week #1: TDD at the first sight ###
 In this week. We try our first simple practice with TDD in mind.
 
+### Week #2: Regex at its finest ###
+
+Simple regular expression exercise and some sorting functions.
+
+### Week #3: Life is just a game
+
+We will return to the old same old story. No game theory involved.
