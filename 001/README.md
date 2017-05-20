@@ -1,11 +1,11 @@
-##1. What is TDD? ##
+##1. What is TDD?
 TDD is acronym for Test-Driven-Development. You could enter "TDD" into Google to know more about the term. This program will not contains definition or any thing more specific about TDD. Instead, we will dive into practices.
 
 Because our team consists of testers and developers, and our testers lack the skill required to fully exercises those practices, we randomly pick one tester to match with one developer to create some "pairs". The upside is we could practice one more XP trick here: pair programming.
 
 So we will practice both TDD and Pair Programming at the same time.
 
-##2. Practice #1 ##
+##2. Practice #1
 ### English ###
 User story: As dev team, we want to estimate when we will have all task completed (in a sprint).
 
@@ -46,7 +46,7 @@ Trong bài tập này, chúng ta sẽ tập trung vào quá trình phát triển
 
 Bây giờ, sau khi đã có đầy đủ các test case, chúng ta sẽ bắt đầu code.
 
-##3. Practice #2 ##
+##3. Practice #2
 
 ### English ###
 User story: As dev team, we want to have weekend holidays at Saturday and Sunday.
