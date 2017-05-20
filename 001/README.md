@@ -1,4 +1,4 @@
-#1. What is TDD?
+## 1. What is TDD?
 TDD is acronym for Test-Driven-Development. You could enter "TDD" into Google to know more about the term. This program will not contains definition or any thing more specific about TDD. Instead, we will dive into practices.
 
 Because our team consists of testers and developers, and our testers lack the skill required to fully exercises those practices, we randomly pick one tester to match with one developer to create some "pairs". The upside is we could practice one more XP trick here: pair programming.
