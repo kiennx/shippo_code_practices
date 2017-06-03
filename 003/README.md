@@ -4,12 +4,12 @@
 
 Given that we have a board of XO chess game as a 2d array as follow:
 
-0 1 0 0 0 0
-0 1 2 2 0 0
-0 0 1 2 0 0
-0 0 1 2 0 0
-0 0 1 2 0 0
-0 0 1 2 0 0
+    0 1 0 0 0 0
+    0 1 2 2 0 0
+    0 0 1 2 0 0
+    0 0 1 2 0 0
+    0 0 1 2 0 0
+    0 0 1 2 0 0
 
 In which:
 
