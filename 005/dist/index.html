@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Game of life</title>
+    <!--<script src="../../node_modules/handlebars/dist/handlebars.min.js">-->
+    <!--</script>-->
+    <script src="./bundle.js"></script>
+</head>
+<style>
+    .row {
+        display: block;
+        margin: 0;
+        border-bottom: 1px black;
+    }
+
+    .row:first-child .cell {
+        border-top: solid 1px black;
+    }
+
+    .cell:first-child {
+        clear: both;
+        border-left: solid 1px black;
+    }
+
+    .cell {
+        text-align: center;
+        display: inline-block;
+        float:left;
+        width: 15px;
+        height: 15px;
+        padding: 0;
+        margin: 0px;
+        border-right: 1px solid black;
+        border-bottom: 1px solid black;
+        cursor: pointer;
+    }
+
+    .board {
+        float: left;
+    }
+
+    .state-1 {
+        background-color: forestgreen;
+    }
+
+    .state-0 {
+        background-color: snow;
+    }
+</style>
+<body style="margin: 10px auto; width: 500px;">
+    <div id="board"></div>
+    <div style="clear: both"></div>
+    <div style="text-align: center; margin-top: 20px;">
+        <input id="start" type="button" value="Start game" />
+        <input id="pause" type="button" value="Pause" />
+        <input id="next" type="button" value="Next stage" />
+        <input id="randomize" type="button" value="Randomize" />
+    </div>
+</body>
+</html>

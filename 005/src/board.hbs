@@ -1,0 +1,10 @@
+<div class="table">
+    {{#each this}}
+        <div class="row" data-row="{{@key}}">
+            {{#each this}}
+                <div class="cell state-{{this}}" data-col="{{@key}}">
+                </div>
+            {{/each}}
+        </div>
+    {{/each}}
+</div>
